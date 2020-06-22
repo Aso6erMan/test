@@ -1,2 +1,6 @@
 lalalala
 la
+<<<<<<< HEAD
+=======
+la
+>>>>>>> f690e5900c8d6dcd041a89ff4e1b5985cc634583
